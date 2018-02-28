@@ -2,7 +2,7 @@
 PATH=$PATH:/usr/local/bin
 
 NPM=/usr/local/bin/npm
-cat ./input.txt | while read LINE; do
+cat ./input.tsv | while read LINE; do
     NAME=`echo "$LINE" | cut -f1`
     URL=`echo "$LINE" | cut -f2` 
     $NPM run browsertime "$URL" \
