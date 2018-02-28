@@ -1,0 +1,3 @@
+top	https://www.example.xyz
+about	https://www.example.xyz/about
+blog	https://www.example.xyz/blog

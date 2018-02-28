@@ -1,0 +1,4 @@
+node_modules/**/*
+spreadsheet_api_key.json
+logs/*
+browsertime-results/**/*

@@ -1,0 +1,31 @@
+{
+  "name": "@kemsakurai/plugin-gsheet",
+  "version": "0.1.0",
+  "description": "Google Sheets & Browsertime Integrations ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "browsertime": "node_modules/.bin/browsertime"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kemsakurai/browsertime-2-gsheet.git"
+  },
+  "keywords": [
+    "sitespeed.io",
+    "browsertime",
+    "Google Sheets"
+  ],
+  "author": "Ken Sakurai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kemsakurai/browsertime-2-gsheet/issues"
+  },
+  "homepage": "https://github.com/kemsakurai/browsertime-2-gsheet#readme",
+  "dependencies": {
+    "browsertime": "^2.2.2",
+    "commander": "^2.14.1",
+    "google-spreadsheet": "^2.0.4",
+    "shelljs": "^0.8.1"
+  }
+}
