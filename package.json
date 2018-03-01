@@ -1,5 +1,5 @@
 {
-  "name": "@kemsakurai/browsertime-2-gsheet",
+  "name": "browsertime-2-gsheet",
   "version": "0.1.0",
   "description": "Google Sheets & Browsertime Integrations ",
   "main": "index.js",
