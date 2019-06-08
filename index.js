@@ -2,7 +2,6 @@
 
 require('shelljs/global')
 const program = require('commander')
-const log = require('intel').getLogger('browsertime-2-gsheet');
 const GSheetSender = require('./sender');
 const JsonReader = require('./reader');
 const GSheetMapper = require('./mapper');

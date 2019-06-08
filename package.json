@@ -23,8 +23,8 @@
   },
   "homepage": "https://github.com/kemsakurai/browsertime-2-gsheet#readme",
   "dependencies": {
-    "browsertime": "^2.5.0",
-    "commander": "^2.19.0",
+    "browsertime": "^5.2.0",
+    "commander": "^2.20.0",
     "google-spreadsheet": "^2.0.7",
     "shelljs": "^0.8.3"
   }
