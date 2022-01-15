@@ -26,6 +26,6 @@
     "browsertime": "^5.5.0",
     "commander": "^2.20.0",
     "google-spreadsheet": "^2.0.7",
-    "shelljs": "^0.8.3"
+    "shelljs": "^0.8.5"
   }
 }
